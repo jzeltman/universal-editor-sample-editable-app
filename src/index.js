@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "@adobe/universal-editor-cors";
+//import "@adobe/universal-editor-cors";
 import App from "./App";
 import "./index.css";
 
